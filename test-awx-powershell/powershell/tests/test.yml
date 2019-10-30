@@ -1,5 +1,4 @@
 ---
-- hosts: localhost
-  remote_user: root
+- hosts: 192.168.69.215
   roles:
     - powershell
